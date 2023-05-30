@@ -12,7 +12,7 @@ from oauth2client import client, file, tools
 
 
 # Replace XXXX with the values you get from __Secure-1PSID
-os.environ['_BARD_API_KEY'] = "WQhHkB9y9EPdVyJJ3E0sgvtMX4HxdiZkLc9PElMnK-KQld7VYSq0gCMvk5UCBbENg_pnSw."
+os.environ['_BARD_API_KEY'] = "XXXX"
 
 
 def generate_quiz(input_text, num_Q):
